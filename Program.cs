@@ -12,7 +12,8 @@ namespace SnakeAndLadderProblem
             //UC3PlayerCheckForOption.snake();
             //UC4PlayerWinningPosition.snake();
             //UC5PlayerAtExactWinningPosition.snake();
-            UC6NumberOfDicePlayed.snake();
+            //UC6NumberOfDicePlayed.snake();
+            UC7PlayWithTwoPlayers.snake();
         }
     }
 }
