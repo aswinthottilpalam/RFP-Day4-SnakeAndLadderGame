@@ -8,7 +8,8 @@ namespace SnakeAndLadderProblem
         {
             Console.WriteLine("Welcome To Snake Ladder Game");
             //PlayerStartingPositionZero.snake();
-            PlayerRollDies.snake();
+            //PlayerRollDies.snake();
+            UC3PlayerCheckForOption.snake();
         }
     }
 }
