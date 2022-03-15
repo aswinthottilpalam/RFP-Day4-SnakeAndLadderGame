@@ -7,7 +7,8 @@ namespace SnakeAndLadderProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Snake Ladder Game");
-            PlayerStartingPositionZero.snake();
+            //PlayerStartingPositionZero.snake();
+            PlayerRollDies.snake();
         }
     }
 }
